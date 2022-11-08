@@ -4,7 +4,7 @@
 
 
 
-I'm a 15yo (15 in [Korean Age](https://en.wikipedia.org/wiki/East_Asian_age_reckoning)) student developer & Web development
+I'm a 14yo (15 in [Korean Age](https://en.wikipedia.org/wiki/East_Asian_age_reckoning)) student developer & Web development
 Developed since 2019 (but all repositories created in that year are private)
 
 ## Tech Stack
